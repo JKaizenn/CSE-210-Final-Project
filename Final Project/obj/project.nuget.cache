@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5rTLkZIA01epdveWqr0n97jzt0+XnOJoJAtuzYxyeaMk3Vrqq+fibpPx5DH95EWFNJxdfpjP9nd+HJjwP6Yyg==",
+  "success": true,
+  "projectFilePath": "/Users/jessen/Documents/Visual Studio Code/CSE 210/Final Project/Final Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/jessen/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/jessen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
